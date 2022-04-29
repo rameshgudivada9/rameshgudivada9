@@ -1,4 +1,4 @@
-<img alt="coding" align="right" width="80%" src="https://media.istockphoto.com/photos/dark-web-hooded-hacker-picture-id1143736474?k=20&m=1143736474&s=612x612&w=0&h=abanWSbP7e88lHewr4-798Yhb-MjGBuhH-Tl6exCH4E=" >
+<img alt="coding" width="100%" height="300" src="https://media.istockphoto.com/photos/3d-rendering-of-blockchain-on-technology-background-picture-id1321058115?b=1&k=20&m=1321058115&s=170667a&w=0&h=lURpv3CH4dH2jD8QUmzFMCMDyyQb8UqYZz4mP-_yRz4=" >
 
 
 <h1 align="center">Hi 👋, I'm Ramesh Gudivada</h1>
