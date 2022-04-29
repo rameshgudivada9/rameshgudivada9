@@ -1,4 +1,4 @@
-<img src=“https://image.shutterstock.com/image-vector/programming-code-coding-hacker-background-260nw-1714491562.jpg” alt=“image”>
+<img alt="coding" align="right" width="80%" src="https://media.istockphoto.com/photos/dark-web-hooded-hacker-picture-id1143736474?k=20&m=1143736474&s=612x612&w=0&h=abanWSbP7e88lHewr4-798Yhb-MjGBuhH-Tl6exCH4E=" >
 
 
 <h1 align="center">Hi 👋, I'm Ramesh Gudivada</h1>
